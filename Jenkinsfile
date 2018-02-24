@@ -9,7 +9,7 @@ pipeline {
         }
         stage('Test') {
             steps {
-                echo 'Hey Buddy'
+                echo 'Hey Saloni How are you ?'
             }
         }
         stage('Deploy') {
