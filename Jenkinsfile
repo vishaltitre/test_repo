@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Result') {
             steps {
-                echo 'Success | Fail ..'
+                echo 'Success..'
             }
         }
     }
