@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello Vishal, Welcome to Jenkins First Script"
+echo "Hello $name , Welcome to Jenkins First Script"
